@@ -1,0 +1,24 @@
+
+# Smart File Organizer Pro
+# GUI, database, file management, duplicate detection
+
+# GUI
+# tkinter is included with Python but requires system Tk installation.
+
+# Database
+# sqlite3 is included with Python.
+
+# File Management
+# pathlib, shutil, os are included with Python.
+
+# Duplicate Detection
+# hashlib is included with Python.
+
+# Logging
+# logging is included with Python.
+
+# Testing
+# unittest is included with Python.
+
+# Optional: Development and testing tools
+pytest>=8.0.0
