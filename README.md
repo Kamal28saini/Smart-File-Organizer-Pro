@@ -1,7 +1,7 @@
 # 📁 Smart File Organizer Pro
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="800" alt="Smart File Organizer Pro Dashboard">
+  <img src="screenshots/Dashboard.png" width="800" alt="Smart File Organizer Pro Dashboard">
 </p>
 
 <p align="center">
